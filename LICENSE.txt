@@ -1,0 +1,40 @@
+
+## 📝 Drax Nuker Bot License (DNBL-1.0)
+
+**Copyright (c) 2025 Drax**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software (the “Software”), to use, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+### ✅ Permissions:
+
+* ✔️ Modify the source code.
+* ✔️ Use the bot for any purpose.
+* ✔️ Distribute the software.
+* ✔️ Sell the software, as a service or product.
+* ✔️ Add new features or integrations.
+
+### 🚨 Conditions:
+
+1. **Credit Requirement**:
+
+   * All public versions, forks, distributions, sales, or shared copies of this bot **must include visible credit** to the original developer:
+
+     > **"Developed by Drax"**
+
+2. **Attribution Placement**:
+
+   * The credit must appear in at least one of the following:
+
+     * Console output
+     * Bot status
+     * README file (if distributed with source)
+     * Bot profile bio or footer
+
+3. **No Removal of Author Tags**:
+
+   * You may not remove or obfuscate references to **Drax** in the original code or visible outputs.
+
+### ❌ Limitations:
+
+* This license **does not provide any warranty** or guarantee of performance.
+* The original author (Drax) is **not responsible** for misuse or damages resulting from this software.
